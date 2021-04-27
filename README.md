@@ -1,6 +1,6 @@
 ![Forks](https://img.shields.io/github/forks/AllAroundD/natours) ![Stars](https://img.shields.io/github/stars/AllAroundD/natours) ![License](https://img.shields.io/github/license/AllAroundD/natours)
 
-# card-generator
+# natours
 
 1. [Description](#toc-desc)
 
