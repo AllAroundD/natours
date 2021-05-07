@@ -28,14 +28,13 @@ This is a landing page to learn Sass.
 
 ## Installation
 
-Use app at heroku instance linked [here](tbd).
+Use app at Netlify linked [here](https://ecommerce-store-dm.netlify.app/).
 
 <a id='toc-usage'></a>
 
 ## Usage
 
-This is a landing page to learn Sass
-![Demo](./public/assets/img/demo.gif)
+This is a landing page to showcase Advanced CSS and Sass.
 
 <a id='toc-license'></a>
 
