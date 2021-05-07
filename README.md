@@ -22,19 +22,21 @@
 
 ## Description
 
-This is a landing page to learn Sass.
+This is a landing page for a fictional company showcasing CSS and Sass (SCSS).
 
 <a id='toc-install'></a>
 
 ## Installation
 
-Use app at Netlify linked [here](https://ecommerce-store-dm.netlify.app/).
+- run npm install.
+- run npm start.
 
 <a id='toc-usage'></a>
 
 ## Usage
 
 This is a landing page to showcase Advanced CSS and Sass.
+Use app at Netlify linked [here](https://natours-dm.netlify.app/).
 
 <a id='toc-license'></a>
 
